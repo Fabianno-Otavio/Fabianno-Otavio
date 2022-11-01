@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on: [wheather_now](https://github.com/Fabianno-Otavio/weather_now)
+- 🔭 I’m currently working on: [wheather_now](https://github.com/Fabianno-Otavio/pizzaria_frontend)
 
-- 🌱 I’m currently learning: **JavaScript, React and Bootstrap**
+- 🌱 I’m currently learning: **NextJS and NodeJS**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://fabianno-otavio.github.io/)
 
