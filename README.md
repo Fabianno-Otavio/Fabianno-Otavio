@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on: [Sujeito_Pizza](https://github.com/Fabianno-Otavio/pizzaria_frontend)
+- 🔭 I’m currently working on: [Sujeito_Pizza](https://github.com/Fabianno-Otavio/pizzaria_mobile)
 
 - 🌱 I’m currently learning: **NextJS and NodeJS**
 
