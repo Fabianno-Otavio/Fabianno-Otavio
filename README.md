@@ -4,15 +4,9 @@
 
 
 
-- 🔭 I’m currently working on: [Sujeito_Pizza](https://github.com/Fabianno-Otavio/pizzaria_mobile)
-
-- 🌱 I’m currently learning: **NextJS and NodeJS**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://fabianno-otavio.github.io/)
+- 🌱 I’m currently learning: **AWS**
 
 - 📫 How to reach me: **fabiannootavio08@gmail.com**
-
-- ⚡ Fun fact: **I love cats.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
